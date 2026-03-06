@@ -15,6 +15,6 @@ The pipeline includes:
 
 1. Loading a dialogue dataset
 2. Tokenizing conversations and summaries
-3. Fine-tuning a pre-trained FLAN-T5 model
+3. Fine-tuning(Fully and PEFT/LoRA) a pre-trained FLAN-T5 model
 4. Generating summaries for unseen dialogues
 5. Evaluating model performance
